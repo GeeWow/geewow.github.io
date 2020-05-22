@@ -1,4 +1,6 @@
 header:
+  - title:      Reviews
+    url:        /reviews.html
   - titles:
       # @start locale config
       en      : &EN       Archive
