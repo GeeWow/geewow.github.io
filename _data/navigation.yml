@@ -1,7 +1,6 @@
 header:
   - title:
- 
-       # @start locale config
+      # @start locale config
       en      : &EN       Reviews
       en-GB   : *EN
       en-US   : *EN
