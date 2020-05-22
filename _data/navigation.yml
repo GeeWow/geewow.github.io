@@ -1,5 +1,6 @@
 header:
-  - title:      Reviews
+  - title:
+      en      : &EN       Reviews
     url:        /reviews.html
   - titles:
       # @start locale config
